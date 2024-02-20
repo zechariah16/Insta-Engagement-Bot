@@ -12,8 +12,8 @@ Follow Automation: Automatically follow users found from the specified account's
 Getting Started
 To get started with using the Instagram Follower Bot, follow these steps:
 
-1.Clone the Repository:
-  <br>.git clone https://github.com/zechariah16/instagram-follower-bot.git
+1. Clone the Repository:
+   <br>`git clone https://github.com/zechariah16/instagram-follower-bot.git`
 
 2.Install Requirements:
   <br>.pip install -r requirements.txt
